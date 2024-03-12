@@ -9,6 +9,7 @@
 **Алгоритм**
 
 **Результат**
+
 ![рез1](https://github.com/eternsss/lab_3/assets/155539142/dddce23a-1f79-41ea-916b-d157b60794fc)
 
 **Задача 2**
